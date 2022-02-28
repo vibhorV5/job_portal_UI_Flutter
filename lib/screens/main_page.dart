@@ -143,7 +143,7 @@ class _MainPageState extends State<MainPage> {
           ),
 
           const SizedBox(
-            height: 25,
+            height: 30,
           ),
 
           Container(
