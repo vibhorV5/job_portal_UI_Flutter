@@ -129,7 +129,7 @@ class _MainPageState extends State<MainPage> {
           ),
 
           const SizedBox(
-            height: 50,
+            height: 25,
           ),
 
           //for you -> job cards
