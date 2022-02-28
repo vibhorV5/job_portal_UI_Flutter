@@ -128,8 +128,16 @@ class _MainPageState extends State<MainPage> {
             ),
           ),
 
-          const SizedBox(height: 25),
+          const SizedBox(
+<<<<<<< HEAD
+            height: 25,
+=======
+            height: 10,
+>>>>>>> dev
+          ),
+
           //for you -> job cards
+
           const Padding(
             padding: EdgeInsets.only(left: 25.0),
             child: Text(
