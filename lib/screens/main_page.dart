@@ -115,7 +115,7 @@ class _MainPageState extends State<MainPage> {
                 ),
                 SizedBox(width: 10),
                 Container(
-                  height: 50,
+                  height: 25,
                   padding: EdgeInsets.all(14),
                   decoration: BoxDecoration(
                     color: Colors.grey[700],
